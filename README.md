@@ -7,8 +7,9 @@
 Construyo software, me rompo la cabeza con algoritmos y me gusta que las cosas
 funcionen de verdad, no solo en el papel.
 
-[![Repos](https://img.shields.io/github/repos/urreadiego0518-code?style=flat&logo=github&label=Repos&color=blue)](https://github.com/urreadiego0518-code?tab=repositories)
-[![Followers](https://img.shields.io/github/followers/urreadiego0518-code?style=flat&logo=github&label=Followers&color=blue)](https://github.com/urreadiego0518-code)
+[![GitHub](https://img.shields.io/badge/GitHub-urreadiego0518--code-181717?style=social&logo=github)](https://github.com/urreadiego0518-code)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=social&logo=instagram&logoColor=white)](https://instagram.com/TU_USUARIO)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=social&logo=gmail&logoColor=white)](mailto:TU_CORREO@EJEMPLO.COM)
 [![Licencia](https://img.shields.io/badge/Licencia-MIT-green?style=flat&logo=opensourceinitiative&logoColor=white)](LICENSE)
 
 </div>
@@ -74,9 +75,12 @@ funcionen de verdad, no solo en el papel.
 |---|---|
 | 💬 **Issues y PRs** | La mejor forma de contribuir a cualquiera de mis repos |
 | 💼 **GitHub** | [@urreadiego0518-code](https://github.com/urreadiego0518-code) |
-| 📸 **Instagram** | `@TU_USUARIO_DE_INSTAGRAM` |
-| 📧 **Correo** | `TU_CORREO@EJEMPLO.COM` |
+| 📸 **Instagram** | [`@TU_USUARIO_DE_INSTAGRAM`](https://instagram.com/TU_USUARIO) |
+| 📧 **Correo** | [`TU_CORREO@EJEMPLO.COM`](mailto:TU_CORREO@EJEMPLO.COM) |
 | 🇲🇽 **País** | México |
+
+> ✏️ **Para llenar:** cambia `@TU_USUARIO_DE_INSTAGRAM` y `TU_CORREO@EJEMPLO.COM`
+> en este README (y en los badges de arriba) por los tuyos.
 
 ---
 
