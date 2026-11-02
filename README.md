@@ -2,9 +2,9 @@
 
 # Hola, soy Diego Urrea
 
-**Ingeniería en Sistemas Computacionales** (en curso)
+**Ingeniería en Sistemas Computacionales** (en curso) — México
 
-Construyo software, me rompo la cabeza con algoritmos y me gusta que las cosas
+Hago software, me rompo la cabeza con algoritmos y me gusta que las cosas
 funcionen de verdad, no solo en el papel.
 
 [![GitHub](https://img.shields.io/badge/GitHub-urreadiego0518--code-181717?style=social&logo=github)](https://github.com/urreadiego0518-code)
@@ -19,17 +19,18 @@ funcionen de verdad, no solo en el papel.
 ## Sobre mí
 
 - Estudiante de **Ingeniería en Sistemas Computacionales**.
-- Mis conocimientos en lenguajes de programación son **básicos**: estoy en
-  etapa de aprendizaje y cada repositorio es un paso más.
-- Ahora explorando **Android con Jetpack Compose**, **SQL** y métodos numéricos.
-- Aprendiendo arquitectura de software, IA y más sobre Linux.
-- Me gusta el código limpio, los commits con sentido y los proyectos que de
+- Mis conocimientos en lenguajes de programación son **básicos**: sigo en etapa
+  de aprendizaje y cada repositorio es un paso más.
+- Ahora ando con **Android con Jetpack Compose**, **SQL** y métodos numéricos.
+- Aprendiendo arquitectura de software, IA y más cosas de Linux.
+- Me gusta el código limpio, los commits que se entienden y los proyectos que de
   verdad se pueden ejecutar.
 - **Todo mi código es de código abierto** (licencia MIT).
+- Vivo en **México**.
 
->**Sobre mi nivel:** soy un estudiante que está aprendiendo. Todo lo que hay
-> aquí es trabajo propio en proceso, no productos terminados de una empresa.
-> Lo comparto porque aprender en público funciona mejor.
+> **Sobre mi nivel:** soy estudiante y sigo aprendiendo. Todo lo de aquí es
+> trabajo propio en proceso, no productos terminados de una empresa. Lo publico
+> porque aprender en público funciona mejor.
 
 ---
 
@@ -40,11 +41,11 @@ funcionen de verdad, no solo en el papel.
 
 | Área | Tecnologías | Nivel |
 |---|---|---|
-| **Lenguajes** | `Java` `Kotlin` `Python` `SQL` `C++` `JavaScript` `PSeInt` `MATLAB/Octave` `Bash` `QML` | 🟡 Básico |
-| **Móvil** | `Android` `Jetpack Compose` `Ionic` `Angular` | 🟡 Básico |
-| **Datos** | `PostgreSQL` `MySQL` `MariaDB` `Oracle` `Modelado ER` | 🟡 Básico |
-| **Herramientas** | `Android Studio` `VS Code` `IntelliJ IDEA` `MySQL Workbench` `Proteus` | 🟡 Básico |
-| **OS / Otros** | `Linux (Fedora)` `Git` `GitHub CLI` `Arduino` | 🟢 Uso diario |
+| **Lenguajes** | `Java` `Kotlin` `Python` `SQL` `C++` `JavaScript` `PSeInt` `MATLAB/Octave` `Bash` `QML` | Básico |
+| **Móvil** | `Android` `Jetpack Compose` `Ionic` `Angular` | Básico |
+| **Datos** | `PostgreSQL` `MySQL` `MariaDB` `Oracle` `Modelado ER` | Básico |
+| **Herramientas** | `Android Studio` `VS Code` `IntelliJ IDEA` `MySQL Workbench` `Proteus` | Básico |
+| **OS / Otros** | `Linux (Fedora)` `Git` `GitHub CLI` `Arduino` | Uso diario |
 
 ---
 
@@ -52,11 +53,11 @@ funcionen de verdad, no solo en el papel.
 
 | Proyecto | Qué hace | Stack |
 |---|---|---|
-| [**EnigmaCode**](https://github.com/urreadiego0518-code/enigma-code)  | App Android de control de acceso con **biometría**, por roles y con cálculo de nómina | `Kotlin` `Compose` `BiometricPrompt` `Gson` |
-| [**Fourier Simulation**](https://github.com/urreadiego0518-code/fourier-simulation)  | Reconstrucción interactiva de una señal de reloj de 100 MHz por **Serie de Fourier**, con análisis de THD, rise time y overshoot | `Python` `NumPy` `Matplotlib` |
-| [**POO en Java**](https://github.com/urreadiego0518-code/poo-java)  | Herencia, polimorfismo, abstracción y colecciones propias, con **30 pruebas unitarias** | `Java` `JUnit 5` `Maven` |
+| [**EnigmaCode**](https://github.com/urreadiego0518-code/enigma-code) | App Android de control de acceso con biometría, por roles y con cálculo de nómina | `Kotlin` `Compose` `BiometricPrompt` `Gson` |
+| [**Fourier Simulation**](https://github.com/urreadiego0518-code/fourier-simulation) | Reconstrucción interactiva de una señal de reloj de 100 MHz con la serie de Fourier, más análisis de THD, rise time y overshoot | `Python` `NumPy` `Matplotlib` |
+| [**POO en Java**](https://github.com/urreadiego0518-code/poo-java) | Herencia, polimorfismo, abstracción y colecciones propias, con 30 pruebas unitarias | `Java` `JUnit 5` `Maven` |
 
-###  En camino
+### En camino
 
 - Modelos de base de datos (Oracle PL/SQL y MySQL): turnos, inventario y agencia.
 - App móvil CRUD de cuestionarios (`Ionic` + `Angular`).
@@ -66,9 +67,9 @@ funcionen de verdad, no solo en el papel.
 
 ## Contacto
 
-> **Todo lo que ves aquí es de código abierto** (MIT). Haz un fork, cambia
-> lo que quieras y mándame un Pull Request. También acepto sugerencias, dudas
-> o crítica: leerlas y mejorar el código es parte del proceso.
+> **Todo lo que ves aquí es de código abierto** (MIT). Haz un fork, cambia lo
+> que quieras y mándame un Pull Request. También acepto sugerencias, dudas o
+> crítica: leerlas y mejorar el código es parte del proceso.
 
 | | |
 |---|---|
@@ -84,5 +85,5 @@ funcionen de verdad, no solo en el papel.
 ---
 
 <div align="center">
-  <sub>Hecho por <a href="https://github.com/urreadiego0518-code">Diego Urrea</a> con ☕</sub>
+  <sub>Hecho por <a href="https://github.com/urreadiego0518-code">Diego Urrea</a></sub>
 </div>
