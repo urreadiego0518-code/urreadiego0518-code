@@ -56,6 +56,7 @@ funcionen de verdad, no solo en el papel.
 | [**EnigmaCode**](https://github.com/urreadiego0518-code/enigma-code) | App Android de control de acceso con biometría, por roles y con cálculo de nómina | `Kotlin` `Compose` `BiometricPrompt` `Gson` |
 | [**Fourier Simulation**](https://github.com/urreadiego0518-code/fourier-simulation) | Reconstrucción interactiva de una señal de reloj de 100 MHz con la serie de Fourier, más análisis de THD, rise time y overshoot | `Python` `NumPy` `Matplotlib` |
 | [**POO en Java**](https://github.com/urreadiego0518-code/poo-java) | Herencia, polimorfismo, abstracción y colecciones propias, con 30 pruebas unitarias | `Java` `JUnit 5` `Maven` |
+| [**Runner Matemático**](https://github.com/urreadiego0518-code/runner-matematico) | Videojuego endless runner donde el terreno sale de una función y la pendiente se calcula por derivación numérica. Binarios para Windows, Linux y macOS | `Python` `pygame` `Métodos numéricos` |
 | [**Android Ejercicios**](https://github.com/urreadiego0518-code/android-ejercicios) | 13 mini apps: árboles, Dijkstra paso a paso, Room con biometría y los ordenamientos visualizados | `Kotlin` `Compose` `Room` |
 | [**EnigmaCode en C**](https://github.com/urreadiego0518-code/enigma-code-c) | La misma nómina pero en consola: CRUD sobre archivos y ordenamientos escritos a mano | `C` `CMake` |
 
