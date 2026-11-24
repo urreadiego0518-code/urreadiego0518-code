@@ -54,6 +54,7 @@ funcionen de verdad, no solo en el papel.
 | Proyecto | Qué hace | Stack |
 |---|---|---|
 | [**EnigmaCode**](https://github.com/urreadiego0518-code/enigma-code) | App Android de control de acceso con biometría, por roles y con cálculo de nómina | `Kotlin` `Compose` `BiometricPrompt` `Gson` |
+| [**Resolutor de EDO**](https://github.com/urreadiego0518-code/resolutor-edo) | Resuelve ecuaciones diferenciales con Euler y RK4, compara el error de cada método y traza la solución exacta. Escritorio en Java y app Android | `Java` `Swing` `Kotlin` `Compose` `Métodos numéricos` |
 | [**Fourier Simulation**](https://github.com/urreadiego0518-code/fourier-simulation) | Reconstrucción interactiva de una señal de reloj de 100 MHz con la serie de Fourier, más análisis de THD, rise time y overshoot | `Python` `NumPy` `Matplotlib` |
 | [**POO en Java**](https://github.com/urreadiego0518-code/poo-java) | Herencia, polimorfismo, abstracción y colecciones propias, con 30 pruebas unitarias | `Java` `JUnit 5` `Maven` |
 | [**Runner Matemático**](https://github.com/urreadiego0518-code/runner-matematico) | Videojuego endless runner donde el terreno sale de una función y la pendiente se calcula por derivación numérica. Binarios para Windows, Linux y macOS | `Python` `pygame` `Métodos numéricos` |
